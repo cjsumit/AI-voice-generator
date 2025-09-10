@@ -1,7 +1,7 @@
 # AI Voice Generator
 👉 This repository contains a Python program that helps to generate Voices using **[MURF AI.](https://murf.ai/text-to-speech)**, which provide several types of voices to use for free....
 
-👉 [Join MURF AI and start making projects... 💎]https://murf.ai/text-to-speech)
+👉 [Join MURF AI and start making projects... 💎](https://murf.ai/text-to-speech)
 
 ---
 
@@ -63,7 +63,7 @@ Service, licensing agreements, and applicable laws when using this project.
 👉 Make a new python file with name "api_key.py"...
 👉 Now in that file use the following code..
 ```
-  API_KEY = "[Your api key](https://murf.ai/api/docs/text-to-speech/overview)"
+  API_KEY = <a href = "https://murf.ai/api/docs/text-to-speech/overview">"[Your api key]"</a>
 ```
 👉 Now in your main file import the api_key using command
 ```
