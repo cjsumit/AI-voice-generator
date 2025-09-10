@@ -1,5 +1,5 @@
 # AI Voice Generator
-👉 This repository contains a Python program that helps to generate Voices using **[MURF AI.]**(https://murf.ai/text-to-speech), which provide several types of voices to use for free....
+👉 This repository contains a Python program that helps to generate Voices using **[MURF AI.](https://murf.ai/text-to-speech)**, which provide several types of voices to use for free....
 
 👉 [Join MURF AI and start making projects... 💎]https://murf.ai/text-to-speech)
 
