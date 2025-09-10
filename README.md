@@ -60,10 +60,10 @@ Service, licensing agreements, and applicable laws when using this project.
 ---
 ### Import api_key...
 
-👉 Make a new python file with name "api_key.py"...
-👉 Now in that file use the following code..
+👉 Make a new python file with name "api_key.py".<br>
+👉 Now in that file use the following code.
 ```
-  API_KEY = <a href = "https://murf.ai/api/docs/text-to-speech/overview">"[Your api key]"</a>
+  API_KEY = [Your api key]
 ```
 👉 Now in your main file import the api_key using command
 ```
@@ -71,10 +71,10 @@ Service, licensing agreements, and applicable laws when using this project.
 ```
 ---
 ##### Get your API from murf ai...
-**[Your api key]**(https://murf.ai/api/docs/text-to-speech/overview)
+**[Your api key](https://murf.ai/api/docs/text-to-speech/overview)**
 
-👉 Click on the above link..
-👉 Now under Quickstart section , in second paragraph click on `Generate your API key` and it will generate a api key for you .
+👉 Click on the above link..<br>
+👉 Now under Quickstart section , in second paragraph click on `Generate your API key` and it will generate a api key for you .<br>
 👉 Now copy your API KEY and paste it in `api_key`..
 
 ---
