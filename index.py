@@ -5,7 +5,7 @@ from murf import Murf
 from api_key import API_KEY
 
 
-#API Clienst
+#API Clients
 
 client = Murf(api_key=API_KEY)
 
@@ -36,7 +36,10 @@ def main(page: ft.Page):
     page.padding = 40
     page.bgcolor = "#1E1E2F"
 
-
+if page.web: # This property only exists when running in a browser
+        page.web.meta = {
+            "viewport": "width=device-width, initial-scale=1.0",
+        }
 
 
 
